@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # About Me:
-Hey! I'm a 3rd year B.Tech student studying Computer Science Engineering with specialization in Data Science.<br><br>I'm currently building upon my skills, earning new technologies and eager to apply my knowledge and craft in something meaningful.<br><br>I believe Everything is a Win, when the goal is to Experience!
+Hey! I'm a 3rd year B.Tech student studying Computer Science Engineering with specialization in Data Science.<br><br>I'm currently building upon my skills, learning new technologies and am eager to apply my knowledge and craft in something meaningful.<br><br>I believe- Everything is a Win, when the goal is to Experience!
 
 
 ## 🌐 Socials:
